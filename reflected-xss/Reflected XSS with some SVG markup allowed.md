@@ -20,8 +20,10 @@
 
 اول حاجة جربت أكتب `<script>` في خانة البحث، ودي كانت النتيجة:
 
-![[Pasted image 20250504010910.png]]
-![Pasted image](../images/Pasted image 20250504010910.png)
+![[Pasted image 20250504010910.png]] 
+![Pasted image](../images/Pasted image 20250504010910.png) 
+![Pasted image](../images/20250504010910.png)
+
 
 
 بعدها ظهرلي إن `<script>` مرفوض:
