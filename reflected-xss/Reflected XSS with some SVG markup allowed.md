@@ -23,6 +23,7 @@
 ![[Pasted image 20250504010910.png]] 
 ![Pasted image](../images/Pasted image 20250504010910.png) 
 ![Pasted image](../images/20250504010910.png)
+![Pasted image](../images/Pasted%20image%2020250504010910.png)
 
 
 
